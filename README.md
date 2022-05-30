@@ -1,2 +1,2 @@
 # War-game
-war-game on ios mobile
+war-cards game on ios mobile
